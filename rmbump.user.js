@@ -6,7 +6,7 @@
 // @author       JohnSmithRM
 // @match        https://2ch.hk/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=2ch.hk
-// @downloadURL    https://github.com/JohnSmithRM/rmbump/raw/main/rmbump.user.js
+// @downloadURL  https://github.com/JohnSmithRM/rmbump/raw/main/rmbump.user.js
 // @updateURL    https://github.com/JohnSmithRM/rmbump/raw/main/rmbump.user.js
 // @grant        none
 // ==/UserScript==
